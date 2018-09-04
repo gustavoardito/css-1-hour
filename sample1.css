@@ -1,11 +1,14 @@
 #header1 {
     font-family: serif;
-    font-weight: normal;
+    color: blue;
 }
 #header2 {
     font-family: serif;
     font-style: italic;
+    color: #0ff110;
 }
 #header3 {
     font-family: monospace;
+    color: rgb(255, 255, 255);
+    background-color: gray
 }
