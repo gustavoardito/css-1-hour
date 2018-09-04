@@ -1,6 +1,10 @@
 table {
     background-color: orange;
 }
-td {
+td, th, p {
     background-color: blue;
+    color: red;
+}
+th {
+    background-color: black;
 }
