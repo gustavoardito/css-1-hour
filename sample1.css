@@ -1,4 +1,6 @@
-a:link {color: orange;}
-a:hover {font-family: courier;}
-a:active {font-size: 50px;}
-a:visited {font-family: impact;}
+table {
+    background-color: orange;
+}
+td {
+    background-color: blue;
+}
