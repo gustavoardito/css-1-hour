@@ -1,5 +1,6 @@
 table {
     background-color: orange;
+    border: 6px dashed black;
 }
 td, th, p {
     background-color: blue;
@@ -7,4 +8,7 @@ td, th, p {
 }
 th {
     background-color: black;
+}
+#changed {
+    border: 10px solid yellow;
 }
