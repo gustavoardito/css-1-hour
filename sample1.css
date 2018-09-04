@@ -1,14 +1,4 @@
-#header1 {
-    font-family: serif;
-    color: blue;
-}
-#header2 {
-    font-family: serif;
-    font-style: italic;
-    color: #0ff110;
-}
-#header3 {
-    font-family: monospace;
-    color: rgb(255, 255, 255);
-    background-color: gray
-}
+a:link {color: orange;}
+a:hover {font-family: courier;}
+a:active {font-size: 50px;}
+a:visited {font-family: impact;}
